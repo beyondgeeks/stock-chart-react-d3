@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Stock Chart Application
 
 This project is for showing stock history.
 
